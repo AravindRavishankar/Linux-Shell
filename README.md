@@ -11,5 +11,5 @@ Features:
 7. Piping
 
 HOW TO USE 
-1. Compile the file bash_shell.c with gcc
+1. Compile the file LinuxShell.c with gcc
 2. Run ./a.out
